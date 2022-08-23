@@ -64,7 +64,7 @@ const Registrar = () => {
 
   return (
     <>
-        <h1 className="text-sky-600 font-black text-6xl capitalize">Crea tu Cuenta y Administra tus {''}
+        <h1 className="text-sky-600 font-black text-6xl capitalize">Creá tu Cuenta y Administrá tus {''}
             <span className="text-slate-700">proyectos</span>
         </h1>
 
@@ -145,12 +145,12 @@ const Registrar = () => {
             <Link 
                 className='block text-center my-5 text-slate-500 uppercase text-sm'
                 to="/"
-            >¿Ya tienes una cuenta? Inicia Sesión</Link>
+            >¿Ya tenés Cuenta? ¡Inicia Sesión!</Link>
 
             <Link 
                 className='block text-center my-5 text-slate-500 uppercase text-sm'
                 to="/olvide-password"
-            >Olvide Mi Password</Link>
+            >Olvidé mi contraseña</Link>
         </nav>
     
     </>

@@ -41,7 +41,7 @@ const OlvidePassword = () => {
 
     return (
         <>
-            <h1 className="text-sky-600 font-black text-6xl capitalize">Recupera tu acceso y no pierdas tus {''}
+            <h1 className="text-sky-600 font-black text-6xl capitalize">Recuperá tu acceso y no pierdas tus {''}
                 <span className="text-slate-700">proyectos</span>
             </h1>
 
@@ -81,12 +81,12 @@ const OlvidePassword = () => {
                 <Link 
                     className='block text-center my-5 text-slate-500 uppercase text-sm'
                     to="/"
-                >¿Ya tienes una cuenta? Inicia Sesión</Link>
+                >¿Ya tenés cuenta? ¡Inicia Sesión!</Link>
 
                 <Link 
                     className='block text-center my-5 text-slate-500 uppercase text-sm'
                     to="/registrar"
-                >¿No tienes una cuenta? Regístrate</Link>
+                >¿No tenés cuenta? ¡Registrate!</Link>
             </nav>
 
         </>
